@@ -1,0 +1,11 @@
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\bin\Debug\(Fix)UI_Vispro.exe.config
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\bin\Debug\(Fix)UI_Vispro.exe
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\bin\Debug\(Fix)UI_Vispro.pdb
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\obj\Debug\(Fix)UI_Vispro.csproj.AssemblyReference.cache
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\obj\Debug\_Fix_UI_Vispro.frmLogin.resources
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\obj\Debug\_Fix_UI_Vispro.Properties.Resources.resources
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\obj\Debug\(Fix)UI_Vispro.csproj.GenerateResource.cache
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\obj\Debug\(Fix)UI_Vispro.csproj.CoreCompileInputs.cache
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\obj\Debug\(Fix)UI_Vispro.exe
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\obj\Debug\(Fix)UI_Vispro.pdb
+C:\Users\ezers\source\repos\(Fix)UI_Vispro\obj\Debug\_Fix_UI_Vispro.FrmMain.resources
